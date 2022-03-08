@@ -20,11 +20,11 @@ It's a 4-week learning program to get a ***practical overview of AI & Machine Le
 
 2️⃣ Collecting or loading dataset, understanding data, exploratory data analysis
 
-3️⃣ Data Preprocessing and Data Transformations
+3️⃣ Data preprocessing and data transformations
 
 4️⃣ ML model training and evaluation
 
-5️⃣ Model Predictions and Deployment
+5️⃣ Model predictions and deployment
 
 ### The tools⚔ and Python libaries:
 
