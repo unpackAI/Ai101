@@ -14,9 +14,9 @@ It's a 4-week learning program to get a ***practical overview of AI & Machine Le
 
 [<img src="https://github.com/unpackAI/DL101/raw/main/images/Video%20Introduction.png" width="500"/>](https://www.youtube.com/watch?v=IXZiwIhc3bY)
 
-### Each week revolves around an intuitive ML workflow that sets up the framework for ML systems development:
+## Each week revolves around an intuitive ML workflow that sets up the framework for ML systems development:
 
-1️⃣ Undestanding the business problem and translating it into ML Task (e.g image recognition, text classificaion, regression etc)
+1️⃣ Undestanding a business problem and translating it into ML Task (e.g image recognition, text classificaion, regression etc)
 
 2️⃣ Collecting or loading dataset, understanding data, exploratory data analysis
 
