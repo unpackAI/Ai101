@@ -4,7 +4,7 @@ It's a 4-week learning program to get a ***practical overview of AI & Machine Le
 
 👁computer vision
 
-📊tabular
+📊predictive analytics
 
 🎯recommender systems
 
