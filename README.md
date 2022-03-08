@@ -1,6 +1,8 @@
 # DL101: Apply AI in Any Industry.
 
-It's a 4-week learning program to get a ***practical overview of AI & Machine Learning*** & build a skillset and confidence to ***start off AI Lighthouse Projects & AI Innovation***. The program contains flexible yet powerful💪 **ML pipelines** in
+It's a 4-week learning program to get a ***practical overview of AI & Machine Learning*** & build a skillset and confidence to ***start off AI Lighthouse Projects & AI Innovation***. 
+
+The program contains flexible yet powerful💪 **ML pipelines** in
 
 👁computer vision
 
